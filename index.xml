@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PerceptronMD</title>
-    <link>/</link>
+    <link>perceptronmd.github.io/</link>
     <description>Recent content on PerceptronMD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Robert Chen</copyright>
-    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="perceptronmd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ductal carcinoma in situ</title>
-      <link>/posts/dcis-lumpectomy/</link>
+      <link>perceptronmd.github.io/posts/dcis-lumpectomy/</link>
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/dcis-lumpectomy/</guid>
+      <guid>perceptronmd.github.io/posts/dcis-lumpectomy/</guid>
       <description>Age: 62
 Gender: F
 Diagnosis: ductal carcinoma in situ, ER+/PR+/HER2-
@@ -22,20 +22,20 @@ Patient is a 62 year old female that presented with a 2.4cm mass that was identi
     
     <item>
       <title>Unilateral Breast Lump Under the Nipple</title>
-      <link>/posts/unilateral-breast-lump-nipple/</link>
+      <link>perceptronmd.github.io/posts/unilateral-breast-lump-nipple/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/unilateral-breast-lump-nipple/</guid>
+      <guid>perceptronmd.github.io/posts/unilateral-breast-lump-nipple/</guid>
       <description>Ms. HG is a 41 y.o. G2P1011, LMP 15 days ago with no PMH presenting with painful L breast lump underneath the nipple.
 Symptoms began 6 months when she suddenly noticed milky, pustular but non-bloody discharge out of her L nipple. Since that episode she has not had any discharge from the nipple however has noticed a lump underneath the nipple about “quarter sized” as well as intermittent swelling. She notes that the pain is the most intense around the same time she has menstrual periods.</description>
     </item>
     
     <item>
       <title>Colloid and benign follicular cells - thyroid</title>
-      <link>/posts/total-thyroidectomy/</link>
+      <link>perceptronmd.github.io/posts/total-thyroidectomy/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/total-thyroidectomy/</guid>
+      <guid>perceptronmd.github.io/posts/total-thyroidectomy/</guid>
       <description>Age: 70
 Gender: F
 Diagnosis: 6cm R thyroid nodule
@@ -44,10 +44,10 @@ Patient is a 70 year old woman who was referred to our clinic from an outside pr
     
     <item>
       <title>Invasive Ductal Carcinoma</title>
-      <link>/posts/invasive-ductal-carcinoma/</link>
+      <link>perceptronmd.github.io/posts/invasive-ductal-carcinoma/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/invasive-ductal-carcinoma/</guid>
+      <guid>perceptronmd.github.io/posts/invasive-ductal-carcinoma/</guid>
       <description>Age: 71
 Gender: F
 Diagnosis: R breast invasive ductal carcinoma cT1N0Mx, ER+, PR+, HER2-
@@ -56,10 +56,10 @@ Patient is a 70 year old woman with R breast mass discovered on routine mammogra
     
     <item>
       <title>Melanoma Wide Local Excision</title>
-      <link>/posts/melanoma-wide-local-excision/</link>
+      <link>perceptronmd.github.io/posts/melanoma-wide-local-excision/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/melanoma-wide-local-excision/</guid>
+      <guid>perceptronmd.github.io/posts/melanoma-wide-local-excision/</guid>
       <description>Age: 50
 Gender: M
 Diagnosis: 1.1mm ulcerated melanoma in the left foot
@@ -69,10 +69,10 @@ The patient underwent videoscopic inguinal lymph node dissection as well as wide
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>perceptronmd.github.io/about/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>perceptronmd.github.io/about/</guid>
       <description>Maintained by Dr Robert Chen.
 Work Machine learning in cancer diagnostics, precision medicine and care coordination
 Clinical training in medicine and surgery
@@ -85,10 +85,10 @@ Awards 2020 Academy of Clinical Laboratory Physicians and Scientists - Top 5 abs
     
     <item>
       <title></title>
-      <link>/archives/</link>
+      <link>perceptronmd.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>perceptronmd.github.io/archives/</guid>
       <description></description>
     </item>
     
