@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PerceptronMD</title>
+    <link>perceptronmd.github.io/</link>
+    <description>Recent content on PerceptronMD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Robert Chen</copyright>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="perceptronmd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ductal carcinoma in situ</title>
+      <link>perceptronmd.github.io/posts/dcis-lumpectomy/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/posts/dcis-lumpectomy/</guid>
+      <description>Age: 62
+Gender: F
+Diagnosis: ductal carcinoma in situ, ER+/PR+/HER2-
+Patient is a 62 year old female that presented with a 2.4cm mass that was identified on routine mammography. Biopsy of the mass identified it as ductal carcinoma in situ (TisN0M0, ER+/PR+/HER2-). The patient does not have a history of breast or ovarian cancer. The patient does not take hormone replacement therapy. The patient underwent image-guided segmental mastectomy. The patient did not experience complications in the PACU after the operation and was discharged on the same day.</description>
+    </item>
+    
+    <item>
+      <title>Unilateral Breast Lump Under the Nipple</title>
+      <link>perceptronmd.github.io/posts/unilateral-breast-lump-nipple/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/posts/unilateral-breast-lump-nipple/</guid>
+      <description>Ms. HG is a 41 y.o. G2P1011, LMP 15 days ago with no PMH presenting with painful L breast lump underneath the nipple.
+Symptoms began 6 months when she suddenly noticed milky, pustular but non-bloody discharge out of her L nipple. Since that episode she has not had any discharge from the nipple however has noticed a lump underneath the nipple about “quarter sized” as well as intermittent swelling. She notes that the pain is the most intense around the same time she has menstrual periods.</description>
+    </item>
+    
+    <item>
+      <title>Colloid and benign follicular cells - thyroid</title>
+      <link>perceptronmd.github.io/posts/total-thyroidectomy/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/posts/total-thyroidectomy/</guid>
+      <description>Age: 70
+Gender: F
+Diagnosis: 6cm R thyroid nodule
+Patient is a 70 year old woman who was referred to our clinic from an outside provider. She has a history of enlarged thyroid, more prominently on the right side, and has had multiple benign biopsies in the past. A nodule on the right side showed growth from 4.3 cm to 6 cm this year causing her to experience occasional cough and pressure in the neck.</description>
+    </item>
+    
+    <item>
+      <title>Invasive Ductal Carcinoma</title>
+      <link>perceptronmd.github.io/posts/invasive-ductal-carcinoma/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/posts/invasive-ductal-carcinoma/</guid>
+      <description>Age: 71
+Gender: F
+Diagnosis: R breast invasive ductal carcinoma cT1N0Mx, ER+, PR+, HER2-
+Patient is a 70 year old woman with R breast mass discovered on routine mammography. Core biopsy confirmed it was R breast invasive ductal carcinoma cT1N0Mx, ER+, PR+, HER2-. She is not on adjuvant chemotherapy. The patient denies a history of ovarian cancer or breast cancer, and denies family history of ovarian or breast cancer. The patient denies having had genetic testing.</description>
+    </item>
+    
+    <item>
+      <title>Melanoma Wide Local Excision</title>
+      <link>perceptronmd.github.io/posts/melanoma-wide-local-excision/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/posts/melanoma-wide-local-excision/</guid>
+      <description>Age: 50
+Gender: M
+Diagnosis: 1.1mm ulcerated melanoma in the left foot
+Patient is a 50 year old male who presents with a 1.1mm ulcerated melanoma with 5 mitoses/mm2 for the left foot. He was enrolled in a clinical trial and is on neoadjuvant chemotherapy/immunotherapy (nivolumab, ipilimumab, peninemab). On exam, the patient had a palpable groin lymph nodes.
+The patient underwent videoscopic inguinal lymph node dissection as well as wide local excision of the primary tumor.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>perceptronmd.github.io/about/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/about/</guid>
+      <description>Maintained by Dr Robert Chen.
+Work Machine learning in cancer diagnostics, precision medicine and care coordination
+Clinical training in medicine and surgery
+Previously: Georgia Tech CSE, Flatiron Health
+Education MD, Emory University School of Medicine (in progress)
+PhD in Computer Science, School of Computational Science and Engineering, Georgia Institute of Technology
+Awards 2020 Academy of Clinical Laboratory Physicians and Scientists - Top 5 abstract. Young Investigator Award. 2020.
+2015 American Medical Informatics Association - Distinguished Paper Finalist (Top 10 papers among 1000+ attendees)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>perceptronmd.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>perceptronmd.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
