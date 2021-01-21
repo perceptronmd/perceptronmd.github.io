@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PerceptronMD</title>
-    <link>/</link>
-    <description>Recent content on PerceptronMD</description>
+    <title>onc on PerceptronMD</title>
+    <link>/tags/onc/</link>
+    <description>Recent content in onc on PerceptronMD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Robert Chen</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 19:58:58 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Diabetes Mellitus in Pregnancy</title>
-      <link>/posts/diabetes-mellitus-pregnancy/</link>
-      <pubDate>Wed, 20 Jan 2021 19:58:58 -0500</pubDate>
-      
-      <guid>/posts/diabetes-mellitus-pregnancy/</guid>
-      <description>Encounter 1 37yo Hispanic woman G2P1001 at 10w3d comes today for her new OB visit. She is overall doing well but has concerns from her previous pregnancy. Her first pregnancy was complicated by a diagnosis of gestational diabetes mellitus. She worries about this diagnosis for this pregnancy. She wonders how common is GDM and why she had it in her previous pregnancy. How do you counsel her and what are your next steps?</description>
-    </item>
-    
-    <item>
-      <title>Premature Rupture of Membranes</title>
-      <link>/posts/premature-rupture-membranes/</link>
-      <pubDate>Wed, 20 Jan 2021 18:45:37 -0500</pubDate>
-      
-      <guid>/posts/premature-rupture-membranes/</guid>
-      <description>Motivating Example A 26-year-old G2P0101 woman who is 12 weeks pregnant, presents to your prenatal clinic for a new patient visit. Her history is significant vaginal delivery 12 months ago. Beginning at 24 weeks in her previous pregnancy, the patient presented numerous times to Labor and Delivery reporting contractions, and she was sent home each time with a diagnosis of “Braxton-Hicks contractions.” She eventually presented at 28-weeks gestation and was diagnosed with preterm labor.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/onc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ductal carcinoma in situ</title>
       <link>/posts/dcis-lumpectomy/</link>
@@ -83,31 +65,6 @@ Gender: M
 Diagnosis: 1.1mm ulcerated melanoma in the left foot
 Patient is a 50 year old male who presents with a 1.1mm ulcerated melanoma with 5 mitoses/mm2 for the left foot. He was enrolled in a clinical trial and is on neoadjuvant chemotherapy/immunotherapy (nivolumab, ipilimumab, peninemab). On exam, the patient had a palpable groin lymph nodes.
 The patient underwent videoscopic inguinal lymph node dissection as well as wide local excision of the primary tumor.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Maintained by Dr Robert Chen.
-Work Machine learning in cancer diagnostics, precision medicine and care coordination
-Clinical training in medicine and surgery
-Previously: Georgia Tech CSE, Flatiron Health
-Education MD, Emory University School of Medicine (in progress)
-PhD in Computer Science, School of Computational Science and Engineering, Georgia Institute of Technology
-Awards 2020 Academy of Clinical Laboratory Physicians and Scientists - Top 5 abstract. Young Investigator Award. 2020.
-2015 American Medical Informatics Association - Distinguished Paper Finalist (Top 10 papers among 1000+ attendees)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/archives/</guid>
-      <description></description>
     </item>
     
   </channel>
