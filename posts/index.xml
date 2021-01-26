@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Robert Chen</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 21:20:59 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 22:43:13 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethereum Tutorials</title>
+      <link>/posts/ethereum-tutorials/</link>
+      <pubDate>Mon, 25 Jan 2021 22:43:13 -0500</pubDate>
+      
+      <guid>/posts/ethereum-tutorials/</guid>
+      <description>List:
+ Create an NFT and deploy to a public testnet (Truffle) Deploy Box to public testnet (Truffle)  </description>
+    </item>
+    
     <item>
       <title>STI, UTI</title>
       <link>/posts/sti-uti/</link>

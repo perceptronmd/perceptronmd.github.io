@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethereum on PerceptronMD</title>
+    <link>/tags/ethereum/</link>
+    <description>Recent content in ethereum on PerceptronMD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Robert Chen</copyright>
+    <lastBuildDate>Mon, 25 Jan 2021 22:43:13 -0500</lastBuildDate><atom:link href="/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethereum Tutorials</title>
+      <link>/posts/ethereum-tutorials/</link>
+      <pubDate>Mon, 25 Jan 2021 22:43:13 -0500</pubDate>
+      
+      <guid>/posts/ethereum-tutorials/</guid>
+      <description>List:
+ Create an NFT and deploy to a public testnet (Truffle) Deploy Box to public testnet (Truffle)  </description>
+    </item>
+    
+  </channel>
+</rss>

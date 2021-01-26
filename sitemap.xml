@@ -4,7 +4,27 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-20T21:20:59-05:00</lastmod>
+    <lastmod>2021-01-25T22:43:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ethereum/</loc>
+    <lastmod>2021-01-25T22:43:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ethereum-tutorials/</loc>
+    <lastmod>2021-01-25T22:43:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-25T22:43:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-25T22:43:13-05:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +33,7 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-01-20T21:20:59-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/sti-uti/</loc>
-    <lastmod>2021-01-20T21:20:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-01-20T21:20:59-05:00</lastmod>
   </url>
   
